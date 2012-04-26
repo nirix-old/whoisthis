@@ -1,6 +1,6 @@
 # Whoisthis
 
-TODO: Write a gem description
+The new way to get your systems name: whoisthis
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+There is two ways to use Whoisthis:
+
+1. Run `whoisthis` from the command line.
+2. Put `require 'whoisthis'` in your project and call `whoisthis()`
 
 ## Contributing
 
